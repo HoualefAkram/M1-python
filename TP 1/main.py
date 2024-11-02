@@ -248,7 +248,7 @@ while True:
     h = (v**2) / (2 * g)
     if h <= h_fin:
         break
-print(f"n: {h_fin}")
+print(f"n: {counter}")
 
 # Using direct calculations
 g = 9.81
